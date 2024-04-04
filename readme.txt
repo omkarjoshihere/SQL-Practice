@@ -1,4 +1,4 @@
-ORACLE SQL PRACTICE.
+ORACLE SQL , Mysql Practice
 
 CONTENT During Learnings.
 
